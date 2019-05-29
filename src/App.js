@@ -1,7 +1,7 @@
 import React, { useState, useEffect} from 'react';
 import logo from './logo.svg';
 import Button from './components/button';
-import './App.css';
+import './App.scss';
 
 
 const App = () => {
