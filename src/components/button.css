@@ -1,0 +1,14 @@
+button {
+  background: red;
+  border: 0;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+button + button {
+  margin-left: 10px;
+}
+
+button:focus {
+  border: 2px solid rebeccapurple;
+}
